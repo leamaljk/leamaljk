@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Hello, I'm a Web Developer with a passion for building engaging and efficient web applications. I thrive on challenges and love to use my technical skills to solve complex problems.
+Hello... I'm a Web Developer with a passion for building engaging and efficient web applications. I thrive on challenges and love to use my technical skills to solve complex problems.
 
-Hello ...
+
 ### I am currently enriched with these languages, tools, frameworks, databases, libraries and concepts:
 
 <div align="center">
