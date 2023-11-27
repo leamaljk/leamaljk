@@ -3,7 +3,7 @@
 Hello, I'm a Web Developer with a passion for building engaging and efficient web applications. I thrive on challenges and love to use my technical skills to solve complex problems.
 
 Hello ...
-### I am currently enriched with these languages and tools:
+### I am currently enriched with these languages, tools, frameworks, databases, libraries and concepts:
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
