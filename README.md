@@ -1,6 +1,16 @@
-### Hi there 👋
+### Hi there 👋 
 
-Hello... I'm a Web Developer with a passion for building engaging and efficient web applications. I thrive on challenges and love to use my technical skills to solve complex problems.
+
+*I'm a Web Developer with a passion for building engaging and efficient websites and applications.
+I thrive on challenges and love to use my technical skills to solve complex problems.*
+
+## 👩‍💻 About Me:
+- 👉 I am a Web Developer based in Milton Keynes, UK
+- 📚 I recently completed the Web Development course at OpenClassrooms
+- 🌱 I’m currently working on my portfolio!
+- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/lea-maljkovic)
+
+
 
 
 ### I am currently enriched with these languages, tools, frameworks, databases, libraries and concepts:
@@ -24,6 +34,8 @@ Hello... I'm a Web Developer with a passion for building engaging and efficient 
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
 </div>
 
+___
+
 ### Currently focusing on:
 
 <div align="center">
@@ -33,14 +45,14 @@ Hello... I'm a Web Developer with a passion for building engaging and efficient 
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 </div>
 
+___
 
 
 
+Whether it's bringing a designer's vision to life with front-end technologies or architecting robust back-end systems, I'm always up for the challenge. I'm particularly fascinated by the power of JavaScript frameworks like **React** and **Vue.js** to create dynamic user interfaces, as well as the capabilities of **Node.js** and **Express** for server-side solutions.
 
-Whether it's bringing a designer's vision to life with front-end technologies or architecting robust back-end systems, I'm always up for the challenge. I'm particularly fascinated by the power of JavaScript frameworks like React and Vue.js to create dynamic user interfaces, as well as the capabilities of Node.js and Express for server-side solutions.
+On the database side, I am well-versed in both SQL with **PostgreSQL** and NoSQL with **MongoDB**, ensuring that the data layer of the applications I work on is as performant and scalable as the rest.
 
-On the database side, I am well-versed in both SQL with PostgreSQL and NoSQL with MongoDB, ensuring that the data layer of the applications I work on is as performant and scalable as the rest.
+When not coding, I'm often exploring new technologies, dabbling in **UI/UX** design with tools like **Figma**, or honing my skills in **C#** and **Python** for more structured and object-oriented approaches to problem-solving. 
 
-When not coding, I'm often exploring new technologies, dabbling in UI/UX design with tools like Figma, or honing my skills in C# and Python for more structured and object-oriented approaches to problem-solving. 
-
-Feel free to reach out to me for collaborations, tech talks, or just to exchange knowledge on the latest web development trends!
+*Feel free to reach out to me for collaborations, tech talks, or just to exchange knowledge on the latest web development trends!*
