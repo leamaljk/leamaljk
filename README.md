@@ -6,8 +6,8 @@ I thrive on challenges and love to use my technical skills to solve complex prob
 
 ## 👩‍💻 About Me:
 - 👉 I am a Web Developer based in Milton Keynes, UK
-- 📚 I recently completed the Web Development course at OpenClassrooms
-- 🌱 I’m currently working on my portfolio!
+- 📚 I completed the Web Development course at OpenClassrooms and earned a degree.
+- 🌱 Click on my website to check on my work [Pearl Design 2024](https://pearldesign2024.com/) 
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/lea-maljkovic)
 
 
